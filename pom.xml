@@ -30,6 +30,11 @@
         <artifactId>z-moduel-2</artifactId>
         <version>${z-moduel-2.version}</version>
       </dependency>
+      <dependency>
+        <groupId>tw.com.firstbank</groupId>
+        <artifactId>z-parent</artifactId>
+        <version>0.0.1</version>
+      </dependency>
     </dependencies>
   </dependencyManagement>
 
