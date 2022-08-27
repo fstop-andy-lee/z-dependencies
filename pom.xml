@@ -11,6 +11,7 @@
   
   <url>http://www.firstbank.com.tw</url>
 
+  <!-- This is BOM -->
   <properties>
     <revision>1.0.0</revision>
     <z-moduel-1.version>1.0.0</z-moduel-1.version>
